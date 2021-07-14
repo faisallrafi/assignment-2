@@ -48,7 +48,7 @@ header .front{
 }
 header .front .header-left{
     margin-left: 156px;
-    margin-top: 118px;
+    margin-top: 80px;
 }
 /* utility */
 .button{
@@ -66,7 +66,7 @@ header .front .header-left{
 }
 
 header .front .header-left li {
-    margin-top: 37px;
+    margin-top: 24px;
 }
 
 .grid-container{
